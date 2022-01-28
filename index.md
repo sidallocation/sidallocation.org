@@ -6,7 +6,7 @@
 |      SID Range      | Organization          | Note                                                                             |
 | :-----------------: | :-------------------- | :------------------------------------------------------------------------------- |
 |   1000000-1999999   | De Facto              | Reserved for Local Use - Put your custom rules in this range to avoid conflicts  |
-|   2000000-2099999   | Emerging Threats      | The Venerable ET Open                                                            |
+|   2000000-2099999   | Emerging Threats      | ET Open                                                                          |
 |   2100000-2103999   | Emerging Threats      | Forked Snort GPL Signatures (Originally sids 3464 and prior)                     |
 |   2200000-2200999   | OISF                  | Suricata Decoder Events                                                          |
 |   2210000-2210999   | OISF                  | Suricata Stream Events                                                           |
