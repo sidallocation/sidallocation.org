@@ -1,6 +1,7 @@
 # Sid Allocation
 
-Mission statement: a working group to self organize sid ranges for the benfit of users
+**Mission statement**: a working group to self organize sid ranges for the benfit of users
+
 
 |      SID Range      | Organization          | Note                                                                             |
 | :-----------------: | :-------------------- | :------------------------------------------------------------------------------- |
@@ -39,6 +40,7 @@ Mission statement: a working group to self organize sid ranges for the benfit of
 - [x] add 3CORESec range
 - [x] Add ranges from https://github.com/OISF/suricata-intel-index/blob/master/index.yaml
 - [ ] add links to sources as [references](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)
+- [ ] draft - upper and lower bounds, org, reference
 
 
 
