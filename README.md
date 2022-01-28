@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# sidallocation.org
 
-You can use the [editor on GitHub](https://github.com/sidallocation/sidallocation.org/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### ➡️ [Check the allocation table](https://sidallocation.org)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sid Allocation Working Group
 
-### Markdown
+The goal of this project is to create a vendor-neutral working group that defines and documents the signature ID ranges for anyone developing Suricata signatures. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our goal is to improve the experience of users who might be utilizing different rulesets by avoiding any overlaps in the signature IDs.
 
-```markdown
-Syntax highlighted code block
+## Adding/Removing Ranges
 
-# Header 1
-## Header 2
-### Header 3
+Please [open an issue](https://github.com/sidallocation/sidallocation.org/issues) with additional information. 
 
-- Bulleted
-- List
+## Fixing overlaps
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sidallocation/sidallocation.org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It's still the responsability of the ruleset maintainer to adhere to the [allocation table](https://sidallocation.org), so any problems should first be brought up to the maintainer. Additionally, you can also [open an issue](https://github.com/sidallocation/sidallocation.org/issues) in case you need assistance. 
