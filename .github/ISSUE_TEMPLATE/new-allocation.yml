@@ -28,7 +28,7 @@ body:
   - type: textarea
     id: links
     attributes:
-      label: Please provide reference links:
+      label: Please provide reference links
       description: Include any links which can be used as a reference to further document the use of the allocated sid range.
     validations:
       required: False
