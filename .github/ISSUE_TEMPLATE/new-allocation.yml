@@ -22,7 +22,7 @@ body:
     id: count
     attributes:
       label: How many sids are required?
-      placeholder: 10,000
+      placeholder: "10,000"
     validations:
       required: true
   - type: textarea
