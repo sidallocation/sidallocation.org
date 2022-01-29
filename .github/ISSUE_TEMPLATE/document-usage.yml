@@ -21,8 +21,8 @@ body:
   - type: textarea
     id: ranges
     attributes:
-      label: Pleae document any sid ranges in use by the organaization which fall outside of the \"Local Use\" sid range.
-      description: Provide the low and high values for the range, rounded up to the nearest thousand. Consuctive ranges should be combined into a single entry.  Include any external references which document the use of the range.
+      label: SID Ranges
+      description: Provide the low and high values for the range which fall outside of the "Local Use" range. Rounded the high value to the nearest thousand. Consuctive ranges should be combined into a single entry.  Include any external references which document the use of the range.
       placeholder: "1000000-19999999 - https://doc.emergingthreats.net/bin/view/Main/SidAllocation"
     validations:
       required: true
