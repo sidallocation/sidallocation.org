@@ -35,13 +35,3 @@
 | 906200000-906200096 | Abuse.ch              | Abuse.ch Suricata JA3 Fingerprint Ruleset                                        |
 
 
-- [x] Add ranges from https://doc.emergingthreats.net/bin/view/Main/SidAllocation
-- [x] add TGI range
-- [x] add 3CORESec range
-- [x] Add ranges from https://github.com/OISF/suricata-intel-index/blob/master/index.yaml
-- [ ] add links to sources as [references](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)
-- [ ] draft - upper and lower bounds, org, reference
-
-
-
-
