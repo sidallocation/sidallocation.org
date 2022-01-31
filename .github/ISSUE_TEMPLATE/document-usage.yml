@@ -1,0 +1,37 @@
+name: Document Existing SID Usage
+description: A direct pull request would be preferred, if for any reason that is not possible, please use this issue template instead.
+title: "Document Existing Usage for [Org Name] "
+labels: ["documentation"]
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com, twitter.com, etc
+    validations:
+      required: false
+  - type: input
+    id: organization
+    attributes:
+      label: What organization is using the sid range?
+      placeholder: N/A
+    validations:
+      required: true
+  - type: textarea
+    id: ranges
+    attributes:
+      label: SID Ranges
+      description: Provide the low and high values for the range which fall outside of the "Local Use" range. Rounded the high value to the nearest thousand. Consuctive ranges should be combined into a single entry.  Include any external references which document the use of the range.
+      placeholder: "1000000-19999999 - https://doc.emergingthreats.net/bin/view/Main/SidAllocation"
+    validations:
+      required: true
+  - type: checkboxes
+    id: engines
+    attributes:
+      label: IDS Engine
+      description: For which IDS Engine(s) are the signatures produced?
+      options:
+        - label: Snort
+        - label: Suricata
+          required: true
