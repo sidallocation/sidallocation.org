@@ -17,5 +17,6 @@
 | 5000000-5000033     | MalSilo               | [MalSilo](https://malsilo.gitlab.io/feeds/)                                                          |
 | 7724000-7726000     | 3CORESec              | [Sinkholes Ruleset](https://dtection.io/ruleset)                                                     |
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range) |
+| 27995000-27999999   | jpgview               | [DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)            |
 | 902200000-906200096 | Abuse.ch              | Abuse.ch                                                                                             |
 
