@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Makes the SID range column a little easier to read.
+td:first-child {
+    white-space: nowrap;
+    font-family: monospace, monospace;
+    font-size: smaller;
+}
