@@ -12,8 +12,9 @@
 | 2610000-2619999     | TGI HUNT              | [Hunting Ruleset](https://github.com/travisbgreen/hunting-rules)                                     |
 | 2800000-2899999     | Emerging Threats      | [Emerging Threats Pro](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                  |
 | 2620000-2629999     | 3CORESec              | [Lateral Movement Ruleset](https://dtection.io/ruleset)                                              |
+| 2620000-2629999     | Corelight             | [Corelight Github](https://github.com/corelight/)                                                    |
 | 3100000-3199999     | Stamus Networks       | [Stamus Networks Detection](https://stamus-networks.com)                                             |
-| 3200000-3299999     | DCSO                  | [DCSO CyTec](https://medium.com/@DCSO_CyTec), [DCSO github](https://github.com/DCSO/suricata-rules)  |
+| 3200000-3299999     | DCSO                  | [DCSO CyTec](https://medium.com/@DCSO_CyTec), [DCSO Github](https://github.com/DCSO/suricata-rules)  |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)          |
 | 5000000-5000033     | MalSilo               | [MalSilo](https://malsilo.gitlab.io/feeds/)                                                          |
 | 7724000-7726000     | 3CORESec              | [Sinkholes Ruleset](https://dtection.io/ruleset)                                                     |
