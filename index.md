@@ -11,6 +11,7 @@
 | 2400000-2609999     | Emerging Threats      | [Emerging Threats Open](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                 |
 | 2610000-2619999     | TGI HUNT              | [Hunting Ruleset](https://github.com/travisbgreen/hunting-rules)                                     |
 | 2620000-2629999     | 3CORESec              | [Lateral Movement Ruleset](https://dtection.io/ruleset)                                              |
+| 2700000-2799999     | Emerging Threats      | [Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                      |
 | 2800000-2899999     | Emerging Threats      | [Emerging Threats Pro](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                  |
 | 3000000-3099999     | Corelight             | [Corelight Github](https://github.com/corelight/)                                                    |
 | 3100000-3199999     | Stamus Networks       | [Stamus Networks Detection](https://stamus-networks.com)                                             |
