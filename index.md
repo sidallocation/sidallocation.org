@@ -16,6 +16,7 @@
 | 3000000-3099999     | Corelight             | [Corelight Github](https://github.com/corelight/)                                                    |
 | 3100000-3199999     | Stamus Networks       | [Stamus Networks Detection](https://stamus-networks.com)                                             |
 | 3200000-3299999     | DCSO                  | [DCSO CyTec](https://medium.com/@DCSO_CyTec), [DCSO Github](https://github.com/DCSO/suricata-rules)  |
+| 4000000-4099999     | ExtraHop Networks     | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                     |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)          |
 | 5000000-5000033     | MalSilo               | [MalSilo](https://malsilo.gitlab.io/feeds/)                                                          |
 | 7724000-7726000     | 3CORESec              | [Sinkholes Ruleset](https://dtection.io/ruleset)                                                     |
