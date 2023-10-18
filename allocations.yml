@@ -1,0 +1,146 @@
+meta:
+  title: Sid Allocation
+  preamble: |
+    **Mission statement**: a working group to self organize sid ranges for the benefit of users
+
+allocations:
+
+  local:
+    org: local
+    name: Reserved for local use. Put your custom rules in this range.
+    note: Reserved for Local Use - Put your custom rules in this range to avoid conflicts
+    ranges:
+      - start: 1000000
+        size: 1000000
+
+  emergingthreats/open:
+    org: Emerging Threats
+    name: Emerging Threats Open
+    url: https://community.emergingthreats.net/
+    note: "[Emerging Threats Open](https://community.emergingthreats.net/)"
+    ranges:
+      - start: 2000000
+        size: 104000
+      - start: 2400000
+        size: 210000
+
+  oisf/core:
+    org: OISF
+    name: Suricata Engine Rules
+    note: Suricata Engine Events
+    ranges:
+      - start: 2200000
+        size: 100000
+
+  travisbgreen/hunting:
+    org: Travis Green
+    name: Hunting Ruleset
+    url: https://github.com/travisbgreen/hunting-rules
+    note: "[Hunting Ruleset](https://github.com/travisbgreen/hunting-rules)"
+    ranges:
+      - start: 2610000
+        size: 10000
+
+  3coresec/lateral-movement:
+    org: 3CORESec
+    name: Lateral Movement Ruleset
+    note: "[Lateral Movement Ruleset](https://dtection.io/ruleset)"
+    ranges:
+      - start: 2620000
+        size: 10000
+
+  emergingthreats:
+    org: Emerging Threats
+    name: Emerging Threats
+    note: "[Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)"
+    ranges:
+      - start: 2700000
+        size: 100000
+
+  emergingthreats/pro:
+    org: Emerging Threats
+    name: Emerging Threats Pro
+    note: "[Emerging Threats Pro](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)"
+    ranges:
+      - start: 2800000
+        size: 100000
+
+  corelight:
+    org: Corelight
+    name: Corelight
+    note: "[Corelight Github](https://github.com/corelight/)"
+    ranges:
+      - start: 3000000
+        size: 100000
+
+  stamusnetworks:
+    org: Stamus Networks
+    name: Stamus Networks
+    note: "[Stamus Networks Detection](https://stamus-networks.com)"
+    ranges:
+      - start: 3100000
+        size: 100000
+
+  dcso:
+    org: DCSO
+    name: DCSO
+    note: "[DCSO CyTec](https://medium.com/@DCSO_CyTec), [DCSO Github](https://github.com/DCSO/suricata-rules)"
+    ranges:
+      - start: 3200000
+        size: 100000
+
+  extrahopnetworks:
+    org: ExtraHop
+    name: ExtraHop
+    note: "[ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)"
+    ranges:
+      - start: 4000000
+        size: 100000
+
+  etnetera:
+    org: Etnetera a.s.
+    name: Etnetera a.s.
+    note: "[Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)"
+    ranges:
+      - start: 5000000
+        size: 214
+
+  malsilo:
+    org: MalSilo
+    name: MalSilo
+    note: "[MalSilo](https://malsilo.gitlab.io/feeds/)"
+    ranges:
+      - start: 5000000
+        size: 34
+
+  3coresec/sinkholes:
+    org: 3CORESec
+    name: 3CORESec Sinkholes
+    note: "[Sinkholes Ruleset](https://dtection.io/ruleset)"
+    ranges:
+      - start: 7724000
+        size: 2001
+
+  positivetechnologies:
+    org: Positive Technologies
+    name: Positive Technologies Attack Detection Team ruleset
+    note: "[PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range)"
+    ranges:
+      - start: 10000000
+        size: 2000000
+
+  jpgview:
+    org: jpgview
+    name: DOH rules
+    note: "[DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)"
+    ranges:
+      - start: 27990000
+        size: 10000
+
+  abusech:
+    org: Abuse.ch
+    name: Abuse.ch
+    note: "Abuse.ch"
+    ranges:
+      - start: 902200000
+        size: 4000097
