@@ -74,6 +74,8 @@ def main():
     # Now that each range is its own entry, sort by the start of the
     # range.
     allocations = sorted(allocations, key=lambda e: e["range"]["start"])
+
+    # Check for overlaps.
     check_overlap(allocations)
 
     formatted = []

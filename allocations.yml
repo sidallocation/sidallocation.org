@@ -144,3 +144,13 @@ allocations:
     ranges:
       - start: 902200000
         size: 4000097
+
+  pawpatrules:
+    org: Pawpatrules
+    name: PAW Patrules
+    note: "[PAW Patrules](https://pawpatrules.fr/)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3300000
+        size: 100000
