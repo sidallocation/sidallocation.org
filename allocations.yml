@@ -154,3 +154,13 @@ allocations:
     ranges:
       - start: 3300000
         size: 100000
+
+  aleksibovellan:
+    org:  Aleksi Bovellan
+    name: Aleksi Bovellan
+    note: "[NMAP Ruleset](https://github.com/aleksibovellan/opnsense-suricata-nmaps)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3400000
+        size: 100000
