@@ -21,6 +21,7 @@
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                     |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)          |
 | 5000000-5000033     | MalSilo               | [MalSilo](https://malsilo.gitlab.io/feeds/)                                                          |
+| 6000000-6100000     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)
 | 7724000-7726000     | 3CORESec              | [Sinkholes Ruleset](https://dtection.io/ruleset)                                                     |
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range) |
 | 27990000-27999999   | jpgview               | [DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)            |
