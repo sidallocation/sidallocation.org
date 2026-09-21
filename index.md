@@ -19,6 +19,7 @@
 | 3400000-3499999     | Aleksi Bovellan       | [NMAP Ruleset](https://github.com/aleksibovellan/opnsense-suricata-nmaps)                                       |
 | 3500000-3509999     | The Hunters Ledger    | [The Hunters Ledger](https://the-hunters-ledger.com/) - Community threat-intelligence Suricata feed (CC BY 4.0) |
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                                |
+| 4100000-4199999     | BI.ZONE               | [BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)   |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)                     |
 | 6000000-6099999     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)                                                     |
 | 9555000-9954999     | Wybot SAS             | [Wybot Cybersecurity](https://www.wybot-cybersecurite.com/)                                                     |

@@ -91,6 +91,17 @@ allocations:
       - start: 4000000
         size: 100000
 
+  bi-zone:
+    org: BI.ZONE
+    name: BI.ZONE
+    url: https://bi.zone/eng/catalog/services/soc/
+    note: "[BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)"
+    engine:
+      - suricata
+    ranges:
+      - start: 4100000
+        size: 100000
+
   etnetera:
     org: Etnetera a.s.
     name: Etnetera a.s.
