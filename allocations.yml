@@ -185,6 +185,17 @@ allocations:
       - start: 8000000
         size: 3001
 
+  assoechap/stalkerware-indicators:
+    org: Echap
+    name: Echap Stalkerware Indicators
+    url: https://github.com/AssoEchap/stalkerware-indicators
+    note: "[Echap Stalkerware Indicators](https://github.com/AssoEchap/stalkerware-indicators)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3600000
+        size: 10000
+
   wybot:
     org: Wybot SAS
     name: Wybot SAS
