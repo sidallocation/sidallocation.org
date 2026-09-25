@@ -173,6 +173,18 @@ allocations:
       - start: 3500000
         size: 10000
 
+  crowdstrike:
+    org: CrowdStrike
+    name: CrowdStrike
+    url: https://www.crowdstrike.com/products/faq/
+    note: "[CrowdStrike](https://www.crowdstrike.com/products/faq/) - reported usage, pending validation"
+    engine:
+      - snort
+      - suricata
+    ranges:
+      - start: 8000000
+        size: 3001
+
   wybot:
     org: Wybot SAS
     name: Wybot SAS

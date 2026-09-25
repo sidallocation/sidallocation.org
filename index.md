@@ -22,6 +22,7 @@
 | 4100000-4199999     | BI.ZONE               | [BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)   |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)                     |
 | 6000000-6099999     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)                                                     |
+| 8000000-8003000     | CrowdStrike           | [CrowdStrike](https://www.crowdstrike.com/products/faq/) - reported usage, pending validation                   |
 | 9555000-9954999     | Wybot SAS             | [Wybot Cybersecurity](https://www.wybot-cybersecurite.com/)                                                     |
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range)            |
 | 12000000-12999999   | IPFire                | [IPFire Domain Block List](https://www.ipfire.org/dbl/)                                                         |
