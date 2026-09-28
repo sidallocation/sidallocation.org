@@ -136,11 +136,49 @@ allocations:
 
   abusech:
     org: Abuse.ch
-    name: Abuse.ch
-    note: "Abuse.ch"
+    name: Abuse.ch SSLBL
+    url: https://sslbl.abuse.ch/
+    note: "[SSLBL](https://sslbl.abuse.ch/) - SSL certificate, SSL IP and JA3 rulesets"
+    engine:
+      - snort
+      - suricata
     ranges:
       - start: 902200000
         size: 4000097
+
+  abusech/urlhaus:
+    org: Abuse.ch
+    name: Abuse.ch URLhaus
+    url: https://urlhaus.abuse.ch/
+    note: "[URLhaus](https://urlhaus.abuse.ch/) - sid is 80863100 + URLhaus URL id"
+    engine:
+      - suricata
+    ranges:
+      - start: 80000000
+        size: 10000000
+
+  abusech/threatfox:
+    org: Abuse.ch
+    name: Abuse.ch ThreatFox
+    url: https://threatfox.abuse.ch/
+    note: "[ThreatFox](https://threatfox.abuse.ch/) - sid is 90000000 + ThreatFox IOC id"
+    engine:
+      - suricata
+    ranges:
+      - start: 90000000
+        size: 10000000
+
+  abusech/feodotracker:
+    org: Abuse.ch
+    name: Abuse.ch Feodo Tracker
+    url: https://feodotracker.abuse.ch/
+    note: "[Feodo Tracker](https://feodotracker.abuse.ch/) - standard and aggressive rulesets"
+    engine:
+      - snort
+      - suricata
+    ranges:
+      - start: 900500000
+        size: 200000
 
   pawpatrules:
     org: Pawpatrules

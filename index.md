@@ -27,5 +27,8 @@
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range)            |
 | 12000000-12999999   | IPFire                | [IPFire Domain Block List](https://www.ipfire.org/dbl/)                                                         |
 | 27990000-27999999   | jpgview               | [DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)                       |
+| 80000000-89999999   | Abuse.ch              | [URLhaus](https://urlhaus.abuse.ch/) - sid is 80863100 + URLhaus URL id                                         |
+| 90000000-99999999   | Abuse.ch              | [ThreatFox](https://threatfox.abuse.ch/) - sid is 90000000 + ThreatFox IOC id                                   |
 | 100000000-199999999 | Emerging Threats      | [Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                                 |
-| 902200000-906200096 | Abuse.ch              | Abuse.ch                                                                                                        |
+| 900500000-900699999 | Abuse.ch              | [Feodo Tracker](https://feodotracker.abuse.ch/) - standard and aggressive rulesets                              |
+| 902200000-906200096 | Abuse.ch              | [SSLBL](https://sslbl.abuse.ch/) - SSL certificate, SSL IP and JA3 rulesets                                     |
