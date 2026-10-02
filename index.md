@@ -21,6 +21,7 @@
 | 3600000-3609999     | Echap                 | [Echap Stalkerware Indicators](https://github.com/AssoEchap/stalkerware-indicators)                             |
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                                |
 | 4100000-4199999     | BI.ZONE               | [BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)   |
+| 4200000-4299999     | Vectra AI             | [Vectra AI](https://www.vectra.ai/)                                                                             |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)                     |
 | 6000000-6099999     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)                                                     |
 | 8000000-8003000     | CrowdStrike           | [CrowdStrike](https://www.crowdstrike.com/products/faq/) - reported usage, pending validation                   |
