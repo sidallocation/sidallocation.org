@@ -134,7 +134,7 @@ allocations:
       - start: 27990000
         size: 10000
 
-  abusech:
+  abusech/sslbl:
     org: Abuse.ch
     name: Abuse.ch SSLBL
     url: https://sslbl.abuse.ch/
