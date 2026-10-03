@@ -102,6 +102,17 @@ allocations:
       - start: 4100000
         size: 100000
 
+  vectra-ai:
+    org: Vectra AI
+    name: Vectra AI
+    url: https://www.vectra.ai/
+    note: "[Vectra AI](https://www.vectra.ai/)"
+    engine:
+      - suricata
+    ranges:
+      - start: 4200000
+        size: 100000
+
   etnetera:
     org: Etnetera a.s.
     name: Etnetera a.s.
