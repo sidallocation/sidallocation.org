@@ -245,6 +245,17 @@ allocations:
       - start: 3600000
         size: 10000
 
+  dersec:
+    org: DERSec
+    name: DERSec (DER Security Corp)
+    url: https://dersec.io
+    note: "[DERSec](https://dersec.io)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3700000
+        size: 100000
+
   wybot:
     org: Wybot SAS
     name: Wybot SAS
