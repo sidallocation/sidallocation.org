@@ -20,6 +20,7 @@
 | 3500000-3509999     | The Hunters Ledger    | [The Hunters Ledger](https://the-hunters-ledger.com/) - Community threat-intelligence Suricata feed (CC BY 4.0) |
 | 3600000-3609999     | Echap                 | [Echap Stalkerware Indicators](https://github.com/AssoEchap/stalkerware-indicators)                             |
 | 3700000-3799999     | DERSec                | [DERSec](https://dersec.io)                                                                                     |
+| 3800000-3800999     | Pb-22                 | [Pb-22 Open Suricata feed](https://github.com/Pb-22/Network_Detections/tree/main/feed) - BSD-3-Clause             |
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                                |
 | 4100000-4199999     | BI.ZONE               | [BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)   |
 | 4200000-4299999     | Vectra AI             | [Vectra AI](https://www.vectra.ai/)                                                                             |
