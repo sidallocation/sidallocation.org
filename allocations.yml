@@ -265,7 +265,7 @@ allocations:
       - suricata
     ranges:
       - start: 9955000
-        size: 5001
+        size: 5000
 
   wybot:
     org: Wybot SAS

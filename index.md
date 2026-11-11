@@ -27,7 +27,7 @@
 | 6000000-6099999     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)                                                     |
 | 8000000-8003000     | CrowdStrike           | [CrowdStrike](https://www.crowdstrike.com/products/faq/) - reported usage, pending validation                   |
 | 9555000-9954999     | Wybot SAS             | [Wybot Cybersecurity](https://www.wybot-cybersecurite.com/)                                                     |
-| 9955000-9960000     | Pb-22                 | [Pb-22 Open Suricata feed](https://github.com/Pb-22/Network_Detections/tree/main/feed) - BSD-3-Clause             |
+| 9955000-9959999     | Pb-22                 | [Pb-22 Open Suricata feed](https://github.com/Pb-22/Network_Detections/tree/main/feed) - BSD-3-Clause             |
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range)            |
 | 12000000-12999999   | IPFire                | [IPFire Domain Block List](https://www.ipfire.org/dbl/)                                                         |
 | 27990000-27999999   | jpgview               | [DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)                       |
