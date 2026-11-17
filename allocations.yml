@@ -222,6 +222,17 @@ allocations:
       - start: 3500000
         size: 10000
 
+  offseq:
+    org: OffSeq
+    name: OffSeq Mirage Feed
+    url: https://github.com/offseq/mirage-feed
+    note: "[Mirage Feed](https://github.com/offseq/mirage-feed) - OffSeq honeypot threat-intel feed (CC BY 4.0)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3510000
+        size: 10000
+
   crowdstrike:
     org: CrowdStrike
     name: CrowdStrike
