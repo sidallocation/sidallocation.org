@@ -21,6 +21,7 @@
 | 3510000-3519999     | OffSeq                | [Mirage Feed](https://github.com/offseq/mirage-feed) - OffSeq honeypot threat-intel feed (CC BY 4.0)            |
 | 3600000-3609999     | Echap                 | [Echap Stalkerware Indicators](https://github.com/AssoEchap/stalkerware-indicators)                             |
 | 3700000-3799999     | DERSec                | [DERSec](https://dersec.io)                                                                                     |
+| 3800000-3819999     | ThreatDefence         | [Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections)                         |
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                                |
 | 4100000-4199999     | BI.ZONE               | [BI.ZONE SOC](https://bi.zone/eng/catalog/services/soc/), [rules](https://github.com/bi-zone/detection-rules)   |
 | 4200000-4299999     | Vectra AI             | [Vectra AI](https://www.vectra.ai/)                                                                             |
