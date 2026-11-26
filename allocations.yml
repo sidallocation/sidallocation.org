@@ -267,6 +267,17 @@ allocations:
       - start: 3700000
         size: 100000
 
+  threatdefence/agentic-attack-detections:
+    org: ThreatDefence
+    name: Agentic Attack Detections
+    url: https://github.com/ThreatDefence/agentic-attack-detections
+    note: "[Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3800000
+        size: 20000
+
   pb22/open:
     org: Pb-22
     name: Pb-22 Open Suricata feed
